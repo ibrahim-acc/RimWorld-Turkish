@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: aggression judgement scramble -->
+  <BerserkMechanoid.label>saldırganlık karıştı</BerserkMechanoid.label>
+  <!-- EN: Aggression judgment scrambled -->
+  <BerserkMechanoid.baseInspectLine>Saldırganlık kararı karıştı</BerserkMechanoid.baseInspectLine>
+  
   <!-- EN: manhunter -->
   <Manhunter.label>insan avcısı</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->

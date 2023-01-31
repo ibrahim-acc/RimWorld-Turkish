@@ -4,8 +4,6 @@
   <!-- EN:
     <li>sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] began a fight!</li>
   -->
-  <Sentence_SocialFightStarted.rulePack.rulesStrings>
-    <li>sent->[RECIPIENT_nameDef] bir öfke içinde ve [RECIPIENT_pronoun] kavgaya başladı!</li>
-  </Sentence_SocialFightStarted.rulePack.rulesStrings>
+  <Sentence_SocialFightStarted.rulePack.rulesStrings>TODO</Sentence_SocialFightStarted.rulePack.rulesStrings>
   
 </LanguageData>

@@ -3,8 +3,8 @@
   
   <!-- EN: acid spray -->
   <AcidSpray.label>asit spreyi</AcidSpray.label>
-  <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them over time. -->
-  <AcidSpray.description>Boyundaki bezlerden ağza ve hedef bölgenin tamamına yapışkan bir asit maddesi püskürtün. Asit hedeflere yapışacak ve zamanla onları yakacaktır.</AcidSpray.description>
+  <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
+  <AcidSpray.description>Boyundaki bezlerden ağza ve hedef bölgenin tamamına yapışkan bir asit maddesi püskürtün. Asit hedeflere yapışacak ve onları yakacaktır.</AcidSpray.description>
   
   <!-- EN: animal warcall -->
   <AnimalWarcall.label>hayvan savaş çağrısı</AnimalWarcall.label>
@@ -15,7 +15,7 @@
   
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>kanla besle</Bloodfeed.label>
-  <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target’s body size. -->
+  <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
   <Bloodfeed.description>Hedefi ısırın ve hemojeni doğrudan kanlarından çıkarın. Hedef kan kaybedecek ve etkileşimden korkacak, ancak aksi takdirde zarar görmeyecektir. Hızlı etkili bir pıhtılaştırıcı kanamayı önlemek için yarayı kapatır.\n\nYalnızca hemojenik olmayan insanları hedefleyebilir. Hemojen kazancı hedefin vücut boyutundan etkilenir.</Bloodfeed.description>
   
   <!-- EN: coagulate -->
@@ -71,9 +71,10 @@
   
   <!-- EN: implant genes -->
   <ReimplantXenogerm.label>implant genleri</ReimplantXenogerm.label>
-  <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process. -->
+  <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
   <ReimplantXenogerm.description>Özel bir enjektör organı kullanarak bu kişinin ksenojenlerini istekli bir deneğe implante edin. Bu kişinin genleri şu anda yeniden büyüyorsa, zenogermlerini yerleştirecek ve bu süreçte öleceklerdir.</ReimplantXenogerm.description>
-  
+  <!-- ^^ORJİNAL METİNDE DEĞİŞİKLİK MEVCUT^^ -->
+
   <!-- EN: resurrect -->
   <Resurrect.label>diriltme</Resurrect.label>
   <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
